@@ -123,10 +123,10 @@ function cargarTablaModal(sitio) {
             <th>Modelo, Serie y Marca del Equipo</th>
             <th>Ubicación</th>
             <th>Frecuencia</th>
-            <th>Servicio 1</th>
-            <th>Servicio 2</th>
-            <th>Servicio 3</th>
-            <th>Servicio 4</th>
+            <th>Oct 26</th>
+            <th>Nov 26</th>
+            <th>Dic 26</th>
+            <th>Ene 27</th>
         </tr>
     `;
     
