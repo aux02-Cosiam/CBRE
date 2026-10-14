@@ -124,9 +124,9 @@ function cargarTablaModal(sitio) {
             <th>Ubicación</th>
             <th>Frecuencia</th>
             <th>Oct 26</th>
-            <th>Nov 26</th>
-            <th>Dic 26</th>
             <th>Ene 27</th>
+            <th>Abr 27</th>
+            <th>Jul 27</th>
         </tr>
     `;
     
